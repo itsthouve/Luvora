@@ -1,1 +1,10 @@
-{ "items": [] }
+{
+  "items": [
+    {
+      "name": "Nike Air Max Pro",
+      "img": "https://www.farfetch.com/ph/shopping/men/nike-air-max-90-wolf-grey-sneakers-item-15950141.aspx",
+      "storeIcon": "Luvora\\logos\\shopee.webp",
+      "link": "https://www.farfetch.com/ph/shopping/men/nike-air-max-90-wolf-grey-sneakers-item-15950141.aspx"
+    }
+  ]
+}
