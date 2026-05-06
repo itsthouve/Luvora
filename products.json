@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "name": "New Nike",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzRcItrrf7fhhE3oEQ8ijwNWx6VAzW0Dmgw&s",
+      "storeIcon": "https://www.blyzn.github.io/logos/alibaba.png",
+      "link": "https://www.nike.com/ph/t/air-max-90-shoes-E1qKqIHj"
+    },
+    {
       "name": "Nike Air",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxksOwfd1S7xti_j8EZQGUtmTkL_JKXtjfQ&s",
       "storeIcon": "https://blyzn.github.io/Luvora/logos/shopee.webp",
