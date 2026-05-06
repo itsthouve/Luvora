@@ -5,7 +5,7 @@
 // ============================================================
 
 // ── CONFIG — fill these in ──────────────────────────────────
-const GITHUB_USER = "itsthouve";   // e.g. "johnsmith"
+const GITHUB_USER = "blyzn";   // e.g. "johnsmith"
 const GITHUB_REPO = "Luvora";                 // your repo name
 const FILE_PATH   = "products.json";          // path to the file in repo
 // ────────────────────────────────────────────────────────────
